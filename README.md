@@ -34,6 +34,12 @@ Takes age as input and tells whether the person is eligible for a driving licens
 ### positive_negative.c
 Takes a non-zero number as input and tells whether it is positive or negative.
 
+### pcm_scholarship.c
+Takes marks in PCM (Physics, Chemistry, Maths) as input for a science student and prints "Scholarship granted!" if the student scores more than 95 in any one of the three subjects.
+
+### triangle.c
+Takes the three sides of a triangle as input and tells whether the triangle is scalene or not (also identifies equilateral/isosceles).
+
 ## How to run
 
 Compile and run using GCC:
