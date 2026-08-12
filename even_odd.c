@@ -1,3 +1,5 @@
+/* PROGRAM TO CHECK WHETHER A NUMBER IS EVEN OR ODD */
+
 #include <stdio.h>
 int main()
 {

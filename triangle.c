@@ -1,3 +1,5 @@
+/* PROGRAM TO DETERMINE IF A TRIANGLE IS SCALENE */
+
 #include <stdio.h>
 int main()
 {

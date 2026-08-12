@@ -1,3 +1,5 @@
+/* PROGRAM TO CHECK SCHOLARSHIP ELIGIBILITY USING PCM MARKS */
+
 #include <stdio.h>
 int main()
 {
@@ -6,5 +8,5 @@ int main()
     scanf("%d,%d,%d",&p,&c,&m);
     (p>=95||c>=95||m>=95)?printf(" CONGRATULATIONS YOU ARE ELIGIBLE FOR SCHOLARSHIP"):printf("SORRY, YOU ARE NOT ELIGIBLE FOR SCHOLARSHIP");
     return 0;
-    
+
 }

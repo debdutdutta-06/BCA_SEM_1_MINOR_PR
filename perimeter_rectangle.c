@@ -1,3 +1,5 @@
+/* PROGRAM TO CALCULATE THE PERIMETER OF A RECTANGLE USING LENGTH AND BREADTH */
+
 #include <stdio.h>
 int main() {
     int length, breadth, perimeter;

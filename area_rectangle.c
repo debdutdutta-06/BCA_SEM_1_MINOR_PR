@@ -1,3 +1,5 @@
+/* PROGRAM TO CALCULATE THE AREA OF A RECTANGLE USING LENGTH AND BREADTH */
+
 #include <stdio.h>
 int main(){
     float l,b, area;

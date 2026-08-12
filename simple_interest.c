@@ -1,3 +1,5 @@
+/* PROGRAM TO CALCULATE SIMPLE INTEREST USING PRINCIPAL, RATE AND TIME */
+
 #include <stdio.h>
 int main()
 {

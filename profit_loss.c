@@ -1,3 +1,5 @@
+/* PROGRAM TO CHECK PROFIT OR LOSS USING COST PRICE AND SELLING PRICE */
+
 #include <stdio.h>
 int main()
 {

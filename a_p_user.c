@@ -1,3 +1,5 @@
+/* PROGRAM TO CALCULATE AREA AND PERIMETER USING USER INPUT */
+
 #include <stdio.h>
 int main()
 {
