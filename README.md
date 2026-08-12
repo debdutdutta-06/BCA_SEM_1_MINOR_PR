@@ -22,6 +22,18 @@ Takes user input to calculate area and perimeter.
 ### simple_interest.c
 Takes principal amount, rate of interest, and time as input, then calculates simple interest using the formula (P * R * T) / 100.
 
+### profit_loss.c
+Takes cost price and selling price as input, then tells whether it is a profit or loss.
+
+### even_odd.c
+Takes a number as input and tells whether it is even or odd.
+
+### age_driving_license.c
+Takes age as input and tells whether the person is eligible for a driving license.
+
+### positive_negative.c
+Takes a non-zero number as input and tells whether it is positive or negative.
+
 ## How to run
 
 Compile and run using GCC:
