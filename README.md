@@ -1,4 +1,4 @@
-# # BCA_SEM_1_MINOR_PR — C Programs
+# BCA_SEM_1_C_PROGRAMMING — C Programs
 
 Beginner C programs from BCA Semester 1 coursework.
 
